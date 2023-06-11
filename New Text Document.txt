@@ -1,0 +1,33 @@
+Slide 1: Introduction
+- Title: NoSQL (MongoDB) vs SQL: A Comparative Analysis
+- Briefly introduce the topic and the databases being compared (NoSQL: MongoDB and SQL: Relational Databases).
+
+Slide 2: NoSQL (MongoDB)
+- Define NoSQL databases and their characteristics.
+- Explain that MongoDB is a leading NoSQL database.
+- Highlight key features of MongoDB, such as its document-oriented structure, scalability, and flexible schema.
+
+Slide 3: SQL (Relational Databases)
+- Define SQL databases and their characteristics.
+- Explain that SQL databases follow a relational model.
+- Highlight key features of SQL databases, such as their structured tables, defined schemas, and support for ACID transactions.
+
+Slide 4: Functionality Comparison
+- Compare the functionality of MongoDB and SQL databases across different aspects:
+  - Data Model: MongoDB uses a flexible document model, while SQL databases use a structured, table-based model.
+  - Query Language: MongoDB uses the MongoDB Query Language (MQL), which is a rich and expressive query language. SQL databases use the SQL query language, which is standardized and widely adopted.
+  - Scalability: MongoDB is designed to scale horizontally, making it suitable for handling large-scale distributed systems. SQL databases traditionally scale vertically, relying on more powerful hardware.
+  - Transactions: SQL databases have mature support for ACID transactions, ensuring data consistency and integrity. MongoDB has transaction support, but it is not as comprehensive as in SQL databases.
+  - Schema Flexibility: MongoDB allows flexible schemas, enabling schema evolution and accommodating unstructured or semi-structured data. SQL databases have rigid schemas, requiring predefined and consistent data structures.
+
+Slide 5: Pros and Cons
+- Summarize the pros and cons of MongoDB and SQL databases:
+  - MongoDB (NoSQL): Pros include flexibility, scalability, and better performance for certain use cases. Cons include less strict data consistency and a steeper learning curve.
+  - SQL (Relational Databases): Pros include strong data consistency, mature transaction support, and extensive ecosystem. Cons include rigid schemas, limited scalability options, and complexity in managing relationships.
+
+Slide 6: Conclusion
+- Recap the main points discussed in the presentation.
+- Emphasize that the choice between MongoDB (NoSQL) and SQL depends on specific requirements, such as the nature of the data, scalability needs, and desired consistency guarantees.
+- Encourage further exploration and evaluation of the specific database needs to make an informed decision.
+
+Note: The number of slides can be adjusted as needed to accommodate the presentation requirements.
